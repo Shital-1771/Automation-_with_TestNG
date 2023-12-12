@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="annotations.SoftAssertEx"/>
+      <class name="annotations.ParamwithExcel"/>
+      <class name="annotations.HardAssert"/>
+      <class name="annotations.Annot"/>
+      <class name="annotations.Order"/>
+      <class name="annotations.ParamWithArray"/>
+      <class name="annotations.Snippet"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

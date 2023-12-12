@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="28" passed="27" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-01T10:31:11 IST" name="Suite" finished-at="2023-12-01T10:31:12 IST" duration-ms="885">
+    <groups>
+    </groups>
+    <test started-at="2023-12-01T10:31:11 IST" name="Test" finished-at="2023-12-01T10:31:12 IST" duration-ms="885">
+      <class name="annotations.Annot">
+        <test-method is-config="true" signature="bclass()[pri:0, instance:annotations.Annot@13fd2ccd]" started-at="2023-12-01T10:31:11 IST" name="bclass" finished-at="2023-12-01T10:31:11 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclass -->
+        <test-method is-config="true" signature="bmethod()[pri:0, instance:annotations.Annot@13fd2ccd]" started-at="2023-12-01T10:31:11 IST" name="bmethod" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method signature="testCase1()[pri:0, instance:annotations.Annot@13fd2ccd]" started-at="2023-12-01T10:31:11 IST" name="testCase1" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method is-config="true" signature="amethod()[pri:0, instance:annotations.Annot@13fd2ccd]" started-at="2023-12-01T10:31:11 IST" name="amethod" finished-at="2023-12-01T10:31:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method signature="testCase2()[pri:0, instance:annotations.Annot@13fd2ccd]" started-at="2023-12-01T10:31:11 IST" name="testCase2" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method is-config="true" signature="bmethod()[pri:0, instance:annotations.Annot@13fd2ccd]" started-at="2023-12-01T10:31:11 IST" name="bmethod" finished-at="2023-12-01T10:31:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method is-config="true" signature="amethod()[pri:0, instance:annotations.Annot@13fd2ccd]" started-at="2023-12-01T10:31:11 IST" name="amethod" finished-at="2023-12-01T10:31:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method is-config="true" signature="bmethod()[pri:0, instance:annotations.Annot@13fd2ccd]" started-at="2023-12-01T10:31:11 IST" name="bmethod" finished-at="2023-12-01T10:31:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method signature="testCase3()[pri:0, instance:annotations.Annot@13fd2ccd]" started-at="2023-12-01T10:31:11 IST" name="testCase3" finished-at="2023-12-01T10:31:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method is-config="true" signature="amethod()[pri:0, instance:annotations.Annot@13fd2ccd]" started-at="2023-12-01T10:31:11 IST" name="amethod" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method is-config="true" signature="aclass()[pri:0, instance:annotations.Annot@13fd2ccd]" started-at="2023-12-01T10:31:11 IST" name="aclass" finished-at="2023-12-01T10:31:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aclass -->
+      </class> <!-- annotations.Annot -->
+      <class name="annotations.HardAssert">
+        <test-method signature="testCase1()[pri:0, instance:annotations.HardAssert@1de5f259]" started-at="2023-12-01T10:31:11 IST" name="testCase1" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+      </class> <!-- annotations.HardAssert -->
+      <class name="annotations.Order">
+        <test-method signature="login()[pri:1, instance:annotations.Order@b9b00e0]" started-at="2023-12-01T10:31:11 IST" name="login" finished-at="2023-12-01T10:31:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="composemail()[pri:2, instance:annotations.Order@b9b00e0]" started-at="2023-12-01T10:31:11 IST" name="composemail" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- composemail -->
+        <test-method signature="Deletemail()[pri:3, instance:annotations.Order@b9b00e0]" started-at="2023-12-01T10:31:11 IST" name="Deletemail" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deletemail -->
+      </class> <!-- annotations.Order -->
+      <class name="annotations.ParamwithExcel">
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamwithExcel@3e11f9e9]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamwithExcel@3e11f9e9]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamwithExcel@3e11f9e9]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamwithExcel@3e11f9e9]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata" finished-at="2023-12-01T10:31:11 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamwithExcel@3e11f9e9]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata" finished-at="2023-12-01T10:31:11 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamwithExcel@3e11f9e9]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamwithExcel@3e11f9e9]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamwithExcel@3e11f9e9]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamwithExcel@3e11f9e9]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamwithExcel@3e11f9e9]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamwithExcel@3e11f9e9]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata" finished-at="2023-12-01T10:31:11 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name11]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamwithExcel@3e11f9e9]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamwithExcel@3e11f9e9]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamwithExcel@3e11f9e9]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata" finished-at="2023-12-01T10:31:11 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamwithExcel@3e11f9e9]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata" finished-at="2023-12-01T10:31:11 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name15]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamwithExcel@3e11f9e9]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password16]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+      </class> <!-- annotations.ParamwithExcel -->
+      <class name="annotations.ParamWithArray">
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamWithArray@506ae4d4]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata1" finished-at="2023-12-01T10:31:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamWithArray@506ae4d4]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata1" finished-at="2023-12-01T10:31:11 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase1(java.lang.String,java.lang.String)[pri:0, instance:annotations.ParamWithArray@506ae4d4]" started-at="2023-12-01T10:31:11 IST" name="testCase1" data-provider="getdata1" finished-at="2023-12-01T10:31:11 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+      </class> <!-- annotations.ParamWithArray -->
+      <class name="annotations.SoftAssertEx">
+        <test-method signature="testCase1()[pri:0, instance:annotations.SoftAssertEx@485966cc]" started-at="2023-12-01T10:31:11 IST" name="testCase1" finished-at="2023-12-01T10:31:11 IST" duration-ms="20" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+Comparing number of links expected [10] but found [12],
+comapring two strings expected [Bengalooru] but found [Bangalore]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+Comparing number of links expected [10] but found [12],
+comapring two strings expected [Bengalooru] but found [Bangalore]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:30)
+at annotations.SoftAssertEx.testCase1(SoftAssertEx.java:20)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+      </class> <!-- annotations.SoftAssertEx -->
+      <class name="annotations.Snippet">
+        <test-method signature="workWithExcel()[pri:0, instance:annotations.Snippet@7d4f9aae]" started-at="2023-12-01T10:31:11 IST" name="workWithExcel" finished-at="2023-12-01T10:31:12 IST" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- workWithExcel -->
+      </class> <!-- annotations.Snippet -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
